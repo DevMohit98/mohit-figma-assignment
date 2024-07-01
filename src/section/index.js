@@ -1,0 +1,1 @@
+export {default as CompanySection} from "./Company/comapnay.section"

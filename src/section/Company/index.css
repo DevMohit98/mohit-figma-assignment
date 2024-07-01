@@ -1,0 +1,16 @@
+.boxContainer{
+    background-image: url("../../assests/cardbg.svg");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 10vw;
+    
+}
+.sectionbg{
+    background-image: url("../../assests//sectionBg.png");
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+}
